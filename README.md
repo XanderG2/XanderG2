@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Replit/School
-- 🌱 I’m currently learning Python/Node.js
+- 🔭 I’m currently working on Blueit 2
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: Replit
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like coding
