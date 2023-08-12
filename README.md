@@ -1,9 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on Blueit 2
-- 🌱 I’m currently learning Next.js
-- 📫 How to reach me: Replit
+### Hi there, I'm Xander 👋
+- 🔭 I’m currently working on Pygame projects
+- 🌱 I’m currently learning Pygame
+- 📫 How to reach me: Replit/Issues
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like coding
+- ⚡ Fun fact: I am a cat person 🐱
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
