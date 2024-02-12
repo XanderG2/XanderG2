@@ -1,9 +1,9 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on Pygame projects
-- 🌱 I’m currently learning Pygame
+- 🔭 I’m currently working on Godot projects
+- 🌱 I’m currently learning Godot
 - 📫 How to reach me: Replit/Issues
-- ⚡ Fun fact: I am a cat person 🐱
 <!--
+- ⚡ Fun fact: I am a cat person 🐱
 - 😄 Pronouns: 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
