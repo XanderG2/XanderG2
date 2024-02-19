@@ -11,3 +11,5 @@
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XanderG2&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+btw every python project ive built is for 3.9.1 
