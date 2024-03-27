@@ -2,13 +2,11 @@
 - 🔭 I’m currently working on Godot projects
 - 🌱 I’m currently learning Godot
 - 📫 How to reach me: <s>Replit</s>/Issues
-<!--
 - ⚡ Fun fact: I am a cat person 🐱
-- 😄 Pronouns: 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+- 😄 Pronouns: he/him
+- 👯 I’m looking to collaborate on projects i find interesting
+- 🤔 I’m looking for help with nothing (i love stackoverflow+chatgpt)
+- 💬 Ask me about nothing
 
 ---
 
