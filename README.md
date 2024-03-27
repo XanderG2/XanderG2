@@ -1,7 +1,7 @@
 ### Hi there, I'm Xander 👋
 - 🔭 I’m currently working on Godot projects
 - 🌱 I’m currently learning Godot
-- 📫 How to reach me: <s>Replit</s>/Issues
+- 📫 How to reach me: ~Replit~/Issues
 - ⚡ Fun fact: I am a cat person 🐱
 - 😄 Pronouns: he/him
 - 👯 I’m looking to collaborate on projects i find interesting
