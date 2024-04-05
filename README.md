@@ -1,11 +1,11 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on Godot projects
-- 🌱 I’m currently learning Godot
+- 🔭 I’m currently working on valheim stats
+- 🌱 I’m currently learning Linux commands
 - 📫 How to reach me: ~Replit~/Issues
 - ⚡ Fun fact: I am a cat person 🐱
 - 😄 Pronouns: he/him
 - 👯 I’m looking to collaborate on projects i find interesting
-- 🤔 I’m looking for help with nothing (i love stackoverflow+chatgpt)
+- 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing
 
 ---
