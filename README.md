@@ -16,6 +16,7 @@
 
 ---
 
-_btw every python project ive built is for 3.9.1_
+_btw every python project ive (pre-5/4/24) built is for 3.9.1_
+_python (5/4/24-) 3.12.2_
 
-_pygame: 2.5.0_
+_pygame: 2.5.0 (-5/4/24) 2.5.2 (5/4/24-)_
