@@ -1,7 +1,7 @@
 ### Hi there, I'm Xander 👋
 - 🔭 I’m currently working on valheim stats
-- 🌱 I’m currently learning Linux commands
-- 📫 How to reach me: ~Replit~/Issues
+- 🌱 I’m currently learning Linux
+- 📫 How to reach me: Issues
 - ⚡ Fun fact: I am a cat person 🐱
 - 😄 Pronouns: he/him
 - 👯 I’m looking to collaborate on projects i find interesting
