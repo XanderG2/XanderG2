@@ -1,8 +1,7 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on valheim stats/xvps
-- 🌱 I’m currently learning Linux/js
+- 🔭 I’m currently working on xvps/heroes
+- 🌱 I’m currently learning next/ts
 - 📫 How to reach me: Issues
-- ⚡ Fun fact: I am a cat person 🐱
 - 😄 Pronouns: he/him
 
 ---
