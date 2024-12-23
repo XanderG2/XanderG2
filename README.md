@@ -1,7 +1,6 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on xvps/heroes
-- 🌱 I’m currently learning next/ts
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on advent of code
+- 🌱 I’m currently learning javascript
 
 ---
 
