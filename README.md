@@ -1,5 +1,5 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on advent of code
+- 🔭 I’m currently working on N/A
 - 🌱 I’m currently learning javascript
 
 ---
