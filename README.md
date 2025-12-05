@@ -1,5 +1,5 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on N/A
+- 🔭 I’m currently working on AOC
 - 🌱 I’m currently learning N/A
 
 ---
