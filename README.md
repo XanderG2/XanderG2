@@ -1,6 +1,6 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on AOC
-- 🌱 I’m currently learning N/A
+- 🔭 I’m currently working on learning F# and my website
+- 🌱 I’m currently learning F#
 
 ---
 
