@@ -1,5 +1,5 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on learning F# and my website and Evidence board maker
+- 🔭 I’m currently working on programming exercises, including making a wordle clone, and utility apps.
 - 🌱 I’m currently learning F#
 
 ---
