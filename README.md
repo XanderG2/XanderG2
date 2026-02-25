@@ -1,6 +1,8 @@
 ### Hi there, I'm Xander 👋
-- 🔭 I’m currently working on programming exercises, including making a wordle clone, and utility apps.
-- 🌱 I’m currently learning F#
+
+I am an ameteur programmer who also enjoys gaming, listening to music & learning German.
+
+Check out my website's [About me](https://xander.thegillams.co.uk/about) section to get to know about me!
 
 ---
 
